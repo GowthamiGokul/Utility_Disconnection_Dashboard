@@ -1,4 +1,5 @@
-Project Description
+Project Description:
+
 This project, sponsored by Jason Gumaer from the Energy Justice Lab, focuses on Exploratory Data Analysis (EDA) of utility disconnection data. The goal is to uncover trends and insights that inform energy equity policies, particularly how utility disconnections vary across states, time periods, and utility types. The project emphasizes analyzing data related to pre-COVID, COVID, and post-COVID periods to understand the impacts of policies and interventions.
 
 Includes:
